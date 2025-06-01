@@ -1,13 +1,13 @@
 Hi 👋 My name is Bilal
 ======================
 
-Full Stack Web Developer
+Full Stack Web Developer Interseted in ML & AI and Cyber Security
 ------------------------
 
-I've been learning Web Development. I've started with HTML and CSS ....
+I've started with CCNA course, networking field about switches, routers and etc. But I've been learning Web Development for a long time. I've started with HTML and CSS ....
 
 *   🌍  I'm based in ....
-*   ⚡  I'm Peter Petrelli. Yes, I can fly and absorb power
+*   ⚡  I'm Peter Petrelli. Yes, I can fly and also can absorb power.
 
 ### Skills
   
